@@ -1,0 +1,11 @@
+# root path for files
+ROOT_PATH = "/home/ubuntu/site-sentinel-concierge" # eg /home/ubuntu/site-sentinel-concierge
+
+# where should the holidays list file live?
+HOLIDAYS = "#{ROOT_PATH}/holidays.json" # eg #{ROOT_PATH}/holidays.json
+
+# when should the doors be opened and closed?
+DOOR_OPEN_TIME_HOUR = 06
+DOOR_OPEN_TIME_MINUTE = 30
+DOOR_CLOSE_TIME_HOUR = 18
+DOOR_CLOSE_TIME_MINUTE = 30

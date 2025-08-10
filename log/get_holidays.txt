@@ -1,0 +1,41 @@
+# Logfile created on 2025-08-10 10:43:45 +0800 by logger.rb/v1.7.0
+I, [10-08-2025 10:43:45 #981]  INFO -- : Getting public holidays data...
+I, [10-08-2025 10:43:46 #981]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 10:43:46 #981]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 10:43:46 #981]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 11:07:18 #1057]  INFO -- : Getting public holidays data...
+I, [10-08-2025 11:07:19 #1057]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 11:07:19 #1057]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 11:07:19 #1057]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 11:12:02 #1511]  INFO -- : Getting public holidays data...
+I, [10-08-2025 11:12:03 #1511]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 11:12:03 #1511]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 11:12:03 #1511]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 11:30:03 #3526]  INFO -- : Getting public holidays data...
+I, [10-08-2025 11:30:03 #3526]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 11:30:03 #3526]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 11:30:03 #3526]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 11:37:02 #5023]  INFO -- : Getting public holidays data...
+I, [10-08-2025 11:37:02 #5023]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 11:37:02 #5023]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 11:37:02 #5023]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 12:01:12 #972]  INFO -- : Getting public holidays data...
+I, [10-08-2025 12:01:12 #972]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 12:01:12 #972]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 12:01:12 #972]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 12:03:02 #1282]  INFO -- : Getting public holidays data...
+I, [10-08-2025 12:03:02 #1282]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 12:03:02 #1282]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 12:03:02 #1282]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 12:12:02 #1674]  INFO -- : Getting public holidays data...
+I, [10-08-2025 12:12:02 #1674]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 12:12:02 #1674]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 12:12:02 #1674]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 12:20:48 #977]  INFO -- : Getting public holidays data...
+I, [10-08-2025 12:20:49 #977]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 12:20:49 #977]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 12:20:49 #977]  INFO -- : ----------------------------------------------------------------------
+I, [10-08-2025 14:46:43 #975]  INFO -- : Getting public holidays data...
+I, [10-08-2025 14:46:45 #975]  INFO -- : Successfully retrieved access list.
+I, [10-08-2025 14:46:45 #975]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [10-08-2025 14:46:45 #975]  INFO -- : ----------------------------------------------------------------------

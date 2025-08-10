@@ -1,0 +1,19 @@
+### How to modify cron file
+
+cd /var/spool/cron
+crontab -e
+
+
+#@reboot sleep 10 && /usr/bin/ruby /home/ubuntu/site-sentinel-concierge/concierge.rb
+#@reboot sleep 10 && /usr/bin/ruby /home/ubuntu/site-sentinel-concierge/get_holidays.rb
+#@reboot sleep 10 && /usr/bin/ruby /home/ubuntu/site-sentinel-concierge-2/concierge.rb
+#@reboot sleep 10 && /usr/bin/ruby /home/ubuntu/site-sentinel-concierge-2/get_holidays.rb
+#12 12 * * * /usr/bin/ruby /home/ubuntu/site-sentinel-concierge/get_holidays.rb
+#12 12 * * * /usr/bin/ruby /home/ubuntu/site-sentinel-concierge/concierge.rb
+#12 12 * * * /usr/bin/ruby /home/ubuntu/site-sentinel-concierge-2/get_holidays.rb
+#12 12 * * * /usr/bin/ruby /home/ubuntu/site-sentinel-concierge-2/concierge.rb
+#@daily root find /home/ubuntu/site-sentinel-concierge/log/* -mtime +6 -type f -delete
+#@daily root find /home/ubuntu/site-sentinel-concierge-2/log/* -mtime +6 -type f -delete
+
+---------------------------------------------------------------------------------------------------
+

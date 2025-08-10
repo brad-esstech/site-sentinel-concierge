@@ -1,0 +1,22 @@
+# Logfile created on 2025-08-08 18:31:02 +0800 by logger.rb/v1.7.0
+I, [08-08-2025 18:31:02 #1272]  INFO -- : Getting public holidays data...
+I, [08-08-2025 18:31:03 #1272]  INFO -- : Successfully retrieved access list.
+I, [08-08-2025 18:31:03 #1272]  INFO -- : Holidays list does not exist on disk.
+I, [08-08-2025 18:31:03 #1272]  INFO -- : Holidays list written to disk (/home/ubuntu/site-sentinel-concierge/holidays.json).
+I, [08-08-2025 18:31:03 #1272]  INFO -- : ----------------------------------------------------------------------
+I, [08-08-2025 23:18:02 #1231]  INFO -- : Getting public holidays data...
+I, [08-08-2025 23:18:02 #1231]  INFO -- : Successfully retrieved access list.
+I, [08-08-2025 23:18:02 #1231]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [08-08-2025 23:18:02 #1231]  INFO -- : ----------------------------------------------------------------------
+I, [08-08-2025 23:46:44 #1236]  INFO -- : Getting public holidays data...
+I, [08-08-2025 23:46:44 #1236]  INFO -- : Successfully retrieved access list.
+I, [08-08-2025 23:46:44 #1236]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [08-08-2025 23:46:44 #1236]  INFO -- : ----------------------------------------------------------------------
+I, [08-08-2025 23:50:02 #1333]  INFO -- : Getting public holidays data...
+I, [08-08-2025 23:50:03 #1333]  INFO -- : Successfully retrieved access list.
+I, [08-08-2025 23:50:03 #1333]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [08-08-2025 23:50:03 #1333]  INFO -- : ----------------------------------------------------------------------
+I, [08-08-2025 23:56:55 #1153]  INFO -- : Getting public holidays data...
+I, [08-08-2025 23:56:55 #1153]  INFO -- : Successfully retrieved access list.
+I, [08-08-2025 23:56:55 #1153]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [08-08-2025 23:56:55 #1153]  INFO -- : ----------------------------------------------------------------------

@@ -1,0 +1,21 @@
+#### Site Sentinal Concierge Config Parameters
+
+## To force activation of time based relays
+ruby concierge.rb
+
+------------------------------------------------------------------------------------------------
+
+## Modify On/Off Times
+config.rb
+
+-------------------------------------------------------------------------------------------------
+## Determine what relays to activate
+solenoids_on.py
+solenoids_off.py
+
+
+-------------------------------------------------------------------------------------------------
+## Determine days to activate timezones
+concierge.rb
+
+-------------------------------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+# Logfile created on 2025-08-09 00:04:02 +0800 by logger.rb/v1.7.0
+I, [09-08-2025 00:04:02 #1530]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:04:02 #1530]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:04:02 #1530]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:04:02 #1530]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 00:09:02 #1663]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:09:02 #1663]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:09:02 #1663]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:09:02 #1663]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 00:18:02 #1258]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:18:02 #1258]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:18:02 #1258]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:18:02 #1258]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 00:21:02 #1353]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:21:02 #1353]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:21:02 #1353]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:21:02 #1353]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 00:27:02 #1519]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:27:02 #1519]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:27:02 #1519]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:27:02 #1519]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 00:33:02 #1655]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:33:02 #1655]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:33:02 #1655]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:33:02 #1655]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 00:40:02 #1865]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:40:02 #1865]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:40:02 #1865]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:40:02 #1865]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 00:44:37 #978]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:44:37 #978]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:44:37 #978]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:44:37 #978]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 00:50:35 #983]  INFO -- : Getting public holidays data...
+I, [09-08-2025 00:50:35 #983]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 00:50:35 #983]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 00:50:35 #983]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 06:00:02 #7092]  INFO -- : Getting public holidays data...
+I, [09-08-2025 06:00:02 #7092]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 06:00:02 #7092]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 06:00:02 #7092]  INFO -- : ----------------------------------------------------------------------
+I, [09-08-2025 11:09:27 #966]  INFO -- : Getting public holidays data...
+I, [09-08-2025 11:09:28 #966]  INFO -- : Successfully retrieved access list.
+I, [09-08-2025 11:09:28 #966]  INFO -- : Holidays list on disk (/home/ubuntu/site-sentinel-concierge/holidays.json) is already up to date.
+I, [09-08-2025 11:09:28 #966]  INFO -- : ----------------------------------------------------------------------
